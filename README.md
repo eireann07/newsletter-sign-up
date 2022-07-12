@@ -1,6 +1,5 @@
 # Newsletter Sign-up
-Built to practice using Mailchimp API
-- Deployed online using Heroku at https://agile-tor-41182.herokuapp.com/
+*Built to practice using Mailchimp API, Deployed online using Heroku [here](https://agile-tor-41182.herokuapp.com/)
 
 **What I enjoyed while building this app:** Learning how to use and call APIs, since that's such an essential part of web development!
 
